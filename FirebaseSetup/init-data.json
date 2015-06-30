@@ -13,16 +13,10 @@
     "loopintervalms": 45000,
     "looppausems": 180000,
     "urls":[
-      "https://gauntface.com/blog/",
-      "http://addyosmani.com/",
-      "http://paul.kinlan.me/",
-      "https://developers.google.com/web/fundamentals/",
-      "https://events.google.com/io2015/",
-      "http://jakearchibald.com/",
-      "https://github.com/google/WebFundamentals",
-      "https://www.google.com/?gws_rd=ssl#q=do+a+barrel+roll",
-      "https://twitter.com/chromiumdev",
-      "http://www.petelepage.com"
+      "https://www.polymer-project.org",
+      "https://elements.polymer-project.org/",
+      "https://blog.polymer-project.org/",
+      "https://developers.google.com/web/fundamentals/"
     ]
   },
   "tests": {},

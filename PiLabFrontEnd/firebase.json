@@ -1,0 +1,9 @@
+{
+  "firebase": "polymer-device-lab",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

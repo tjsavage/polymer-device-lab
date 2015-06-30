@@ -63,7 +63,7 @@ static const CGFloat kAddressHeight = 22.0f;
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
     NSString *fbAppName = [defaults stringForKey:@"fbAppName"];
     if (!fbAppName) {
-        fbAppName = [NSString stringWithFormat:@"goog-mtv-device-lab"];
+        fbAppName = [NSString stringWithFormat:@"polymer-device-lab"];
     }
 
     NSString *fbURL = [NSString stringWithFormat:@"https://%@.firebaseio.com/url", fbAppName];

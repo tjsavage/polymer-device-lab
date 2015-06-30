@@ -21,10 +21,10 @@
   <script src="/bower_components/firebase/firebase.js"></script>
   <script type="text/javascript">
     'use strict';
-    
+
     var spanURL = document.querySelector('#currentURL');
 
-    var fb = new Firebase('https://goog-mtv-device-lab.firebaseio.com/');
+    var fb = new Firebase('https://polymer-device-lab.firebaseio.com/');
     fb.authAnonymously(function(error) {
       if(error) {
         console.error('[FIREBASE] Auth failed. ' + error.toString());
